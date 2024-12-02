@@ -1,6 +1,6 @@
 # alerts-and-monitoring-on-a-bank-web-app
 Objective
-In this project, I workED with popular open-source monitoring and alerting tools such as Prometheus, Grafana, and the ELK (Elasticsearch, Logstash, Kibana) stack. My goal was to set up an end-to-end monitoring and alerting system for your infrastructure.
+In this project, I worked with popular open-source monitoring and alerting tools such as Prometheus, Grafana, and the ELK (Elasticsearch, Logstash, Kibana) stack. My goal was to set up an end-to-end monitoring and alerting system for your infrastructure.
 Key Guidelines
 Leverage Open-Source Tools
 Utilize Prometheus for metrics collection, Grafana for visualization, and the ELK stack for log management and analysis.
